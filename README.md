@@ -23,6 +23,7 @@ Este es mi portafolio profesional donde documento mi transición al análisis de
 
 **Habilidades demostradas:** `SQL` · `Tableau` · `Python (Pandas)` · `Análisis de negocio` · `Storytelling con datos`
 
+**Dashboard:** (https://public.tableau.com/app/profile/sebastian.zocola/viz/AnlisisCAC-CloudFlowApps/OptimizacindeMarketingAnlisisCAC)
 ---
 
 ## 📂 **Otros Proyectos**
