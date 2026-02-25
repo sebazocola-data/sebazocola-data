@@ -1,58 +1,31 @@
-# ¡Hola! 👋 Soy Seba
+# Hola, soy Sebastian 👋 | Mathematical Mind & Data Enthusiast
 
-### Data Analyst en formación | Especializándome en SQL y Tableau para generar insights accionables
+Ex-docente de Matemática reconvirtiendo el rigor lógico en soluciones tecnológicas. Me especializo en desglosar problemas complejos y transformarlos en código eficiente y datos accionables.
 
-Este es mi portafolio profesional donde documento mi transición al análisis de datos. Aquí aplico técnicas de análisis, visualización y storytelling para resolver problemas de negocio simulados.
-
----
-
-## 🚀 **Proyecto Destacado**
-
-### 📊 [Análisis de Eficiencia de Marketing (CAC) para una Startup SaaS](https://github.com/sebazocola-data/proyecto-cac-ltv)
-**SQL | Tableau | Python | Storytelling**
-
-**Objetivo:** Identificar el canal de marketing más eficiente para optimizar el presupuesto.
-
-**Proceso:**
-1.  **Generación de datos realistas** con Python (Pandas) simulando una startup SaaS.
-2.  **Análisis SQL completo** en SQLite: cálculo de CAC (Costo de Adquisición por Cliente), tasas de conversión y métricas clave.
-3.  **Dashboard ejecutivo** en Tableau para visualizar hallazgos.
-4.  **Recomendación estratégica** basada en datos.
-
-**Hallazgo clave:** Identifiqué que reasignar el presupuesto del canal menos eficiente podría **aumentar la adquisición de clientes en un 320% sin incrementar el gasto**.
-
-**Habilidades demostradas:** `SQL` · `Tableau` · `Python (Pandas)` · `Análisis de negocio` · `Storytelling con datos`
-
-**Dashboard:** (https://public.tableau.com/app/profile/sebastian.zocola/viz/AnlisisCAC-CloudFlowApps/OptimizacindeMarketingAnlisisCAC)
----
-
-## 📂 **Otros Proyectos**
-
-### 🐍 [Juegos Clásicos en Python](https://github.com/sebazocola-data/Snake-Game-Python)
-**Python | Lógica de programación | PyGame**
-- Desarrollo de juegos clásicos desde cero, demostrando habilidades sólidas en Python y resolución de problemas.
-
-### 📈 **Próximo Proyecto: Optimización de Inventario (ABC/XYZ Analysis)**
-*En planeación - Análisis SQL avanzado para clasificación de productos y reducción de costos de inventario.*
+### 🧠 Mi Propuesta de Valor
+Como matemático, mi código no es solo sintaxis; es **lógica aplicada**. Aporto precisión, capacidad analítica y una habilidad docente para comunicar conceptos técnicos a cualquier audiencia.
 
 ---
 
-## 🛠️ **Habilidades Técnicas**
-
-- **Lenguajes:** Python (Pandas, NumPy), **SQL (avanzado: JOINs, subconsultas, funciones de ventana)**
-- **Visualización:** **Tableau (dashboarding interactivo)**, Power BI
-- **Bases de Datos:** SQLite, MySQL
-- **Herramientas:** Git, GitHub, Jupyter Notebook, DB Browser
-- **Análisis:** Cálculo de métricas de negocio (CAC, conversión), limpieza de datos, storytelling
+### 🛠️ Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📫 **Conecta Conmigo**
+### 🚀 Proyectos que demuestran mi lógica
 
-- LinkedIn: [Sebastián Zocola](https://www.linkedin.com/in/sebastian-zocola-9a1039180/)
-- Email: seba.zocola@gmail.com
-- **Portafolio Tableau Public:** [Enlace a tu dashboard cuando lo publiques] *(¡Lo agregaremos hoy!)*
+* **[Snake Game](https://github.com/sebazocola-data/Snake-Game-Python):** Implementación de POO para gestionar colisiones en un plano cartesiano dinámico.
+* **[Cifrado César](https://github.com/sebazocola-data/Cifrado-Cesar):** Algoritmo de desplazamiento de caracteres basado en teoría de números básica.
 
 ---
 
-> *"Los datos no son sólo números, son las historias no contadas del negocio. Mi objetivo es aprender a contarlas para tomar mejores decisiones."*
+### 📈 En qué estoy trabajando hoy
+- 📊 Profundizando en **Pandas y NumPy** para análisis estadístico.
+- 🗄️ Practicando consultas complejas en **SQL** (Joins, Subqueries).
+- 🇬🇧 Mejorando mi inglés técnico hacia un nivel **B2**.
+
+---
+📫 **Hablemos:**(https://www.linkedin.com/in/sebastian-zocola/)| seba.zocola@gmail.com
